@@ -108,5 +108,6 @@ public class Game {
         {
             System.out.println("玩家"+players.get(k).getName()+"的手牌为"+players.get(k).getHandcardlist().toString());
         }
+        System.out.println("--------游戏结束--------");
                     }
 }
